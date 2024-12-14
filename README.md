@@ -173,6 +173,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Special thanks to the creators of the dataset and the open-source community for providing the tools and inspiration to build this project.
 
 ## The original code
+```python
 # training-a-svm-model-on-heart-attack-data-set-
 # Import necessary libraries
 import numpy as np
@@ -281,3 +282,4 @@ def predict(b):
 
 # Attach the function to the button
 button.on_click(predict)
+```
