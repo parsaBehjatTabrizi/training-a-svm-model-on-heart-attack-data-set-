@@ -165,7 +165,20 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ---
 
 ## variables 
-age sex
+Age(), 
+Sex()
+(Female:0, Male:1) 
+Chest Pain Type (0-3)
+Resting Blood Pressure (mm Hg)
+Alcohol Drink (No:0 , Yes:1)
+Fasting Blood Sugar (No:0 , Yes:1)
+Resting ECG Results (0-2)
+Max Heart Rate (Min:71, Max:202)
+Exercise Induced Angina (No:0 , Yes:1)
+Previous Peak(Min:0, Max:6.2)
+Slope (0-2)
+Number of Major Vessels (0-3)
+Thalassemia (0-3)
 
 ---
 
