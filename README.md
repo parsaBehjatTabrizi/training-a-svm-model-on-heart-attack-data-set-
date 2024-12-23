@@ -168,7 +168,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 - **Age** 
 - **Sex**
 -**(Female:0, Male:1)**
-Chest Pain Type (0-3)
+-**Chest Pain Type** (0-3)
 Resting Blood Pressure (mm Hg)
 Alcohol Drink (No:0 , Yes:1)
 Fasting Blood Sugar (No:0 , Yes:1)
