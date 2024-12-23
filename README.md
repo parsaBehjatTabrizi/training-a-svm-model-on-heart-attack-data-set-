@@ -165,9 +165,9 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ---
 
 ## variables 
-Age(), 
-Sex()
-(Female:0, Male:1) 
+- **Age** 
+- **Sex**
+-**(Female:0, Male:1)**
 Chest Pain Type (0-3)
 Resting Blood Pressure (mm Hg)
 Alcohol Drink (No:0 , Yes:1)
