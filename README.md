@@ -164,8 +164,8 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## variables 
+age sex
 
 ---
 
