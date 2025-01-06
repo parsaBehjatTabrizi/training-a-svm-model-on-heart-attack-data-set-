@@ -1,4 +1,4 @@
-# Heart Attack Risk Prediction using SVM Model
+# Heart Attack Risk Prediction, using SVM Model
 
 This repository contains a machine learning model that predicts the risk of a heart attack using Support Vector Machine (SVM). The project includes the dataset, the trained SVM model, and the Python code used to build and evaluate the model.
 
